@@ -4,6 +4,6 @@ int main(void)
 {
  printf("Hello World!");
  printf("My hobby is drive");
- printf("I am in branch2nd");
+ printf("send remote");
  return 0;
 }
