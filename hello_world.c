@@ -3,5 +3,6 @@
 int main(void)
 {
  printf("Hello World!");
- return();
+ printf("My hobby is drive");
+ return 0;
 }
